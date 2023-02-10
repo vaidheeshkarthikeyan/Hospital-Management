@@ -200,7 +200,7 @@ header {
     width: 40px;
     display: inline-block;
     height: 40px;
-    background: #ffffff45;
+    background: rgba(21, 174, 212, 0.271);
     border-radius: 50%;
     position: relative;
     vertical-align: middle;
