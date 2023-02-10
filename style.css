@@ -3,8 +3,8 @@ body {
     margin: 0;
 }
 img {
-    height: 100px;
-    width: 100px;
+    height: 125px;
+    width: 125px;
 }
 a, a:hover {
     text-decoration: none;
@@ -17,7 +17,7 @@ a, a:hover {
     text-transform: capitalize;
     font-size: 15px;
     font-weight: 900;
-    color: rgb(255, 255, 255);
+    color:  rgb(255, 255, 255);
     padding: 10px 10px;
     border-radius: 10px;
     position: relative;
@@ -49,7 +49,7 @@ header {
 }
 .header-active {
     position: fixed;
-    background-color: rgb(47, 161, 198);
+    background-color: rgb(27, 27, 27);
     z-index: 1;
     top: 0;
     animation-name: example;
@@ -61,7 +61,7 @@ header {
 }
 .logo {
     display: inline-block;
-    padding-right: 20px;
+    padding-right: 15px;
     padding-bottom: 15px;
 }
 .menu {
